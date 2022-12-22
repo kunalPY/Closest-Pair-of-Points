@@ -4,8 +4,8 @@ This is a Python implementation of a divide-and-conquer algorithm for finding th
 ## Usage
 To use the algorithm, you can call the closest_pair_recursive function with the entire set of points as the argument:
 
-``points = [(1, 2), (3, 4), (5, 6), (7, 8), (9, 10)]
+`points = [(1, 2), (3, 4), (5, 6), (7, 8), (9, 10)]
 pair = closest_pair_recursive(points, 0, len(points))
-print(pair)  # Output: ((1, 2), (3, 4))``
+print(pair)  # Output: ((1, 2), (3, 4))`
 ## Dependencies
 This code requires the math module, which is a built-in Python module.
