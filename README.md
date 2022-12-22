@@ -7,7 +7,8 @@ To use the algorithm, you can call the closest_pair_recursive function with the 
 ```python
 points = [(1, 2), (3, 4), (5, 6), (7, 8), (9, 10)]
 pair = closest_pair_recursive(points, 0, len(points))
-print(pair)```
+print(pair)
+```
 
 ## Dependencies
 This code requires the math module, which is a built-in Python module.
